@@ -20,7 +20,7 @@ I'm a **Computer Engineering graduate** focused on building complete software so
 - 🏢 Business software and custom modules with **Odoo**
 - 🧪 Interested in **testing, maintainable architecture, accessibility and code quality**
 - 🌐 Experience building responsive and internationalized web applications
-- 🧭 Currently exploring **Computer Vision, Spatial Computing and Augmented Reality**
+- 🧠 Currently studying the shared foundations behind **perception, spatial intelligence and software that interacts with the physical world**
 - 🇪🇸 Open to **Junior Software Engineer / Full Stack Developer** opportunities in Spain
 
 ## 🛠️ Tech stack
@@ -51,9 +51,11 @@ My personal portfolio and the main place where I showcase the projects I'm build
 
 ### 🧭 What I'm building next
 
-Projects that combine software with the physical world through **computer vision, spatial interfaces, 3D and AR**.
+I'm building the common technical foundation behind systems that can **perceive, localize, understand and interact with the physical world**.
 
-**Focus:** Perception · Spatial Computing · Human augmentation
+That means learning the shared core of **computer vision, 3D geometry, depth, tracking, localization, SLAM, sensors and sensor fusion, real-time systems, spatial reasoning, applied AI and interaction** — so I can later specialize where the strongest fit appears.
+
+**Possible directions:** Spatial Computing · Human Augmentation · AR/MR · Embodied AI · Light Robotics
 
 </td>
 </tr>
