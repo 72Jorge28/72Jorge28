@@ -29,12 +29,12 @@ I'm a **Computer Engineering graduate** focused on building complete software so
   <img src="https://skillicons.dev/icons?i=ts,js,python,nextjs,react,tailwind,threejs,postgres,git,github,docker,vscode,linux&perline=13" alt="Technology stack" />
 </p>
 
-**Web:** Next.js · React · Tailwind CSS · Zod · Three.js · React Three Fiber  
+**Web:** Next.js · React · Tailwind CSS · Three.js · React Three Fiber  
 **Backend & Data:** Python · Odoo · PostgreSQL · Prisma · APIs / Server Actions  
 **Tools:** Git · GitHub · Docker · pnpm · VS Code · Vercel · Cloudflare  
 **Practices:** Testing · i18n · Accessibility · Responsive Design · Code Review · CI/Linting
 
-## 🚀 Featured projects
+## 🚀 Featured work
 
 <table>
 <tr>
@@ -42,29 +42,9 @@ I'm a **Computer Engineering graduate** focused on building complete software so
 
 ### 🌐 [Portfolio](https://github.com/72Jorge28/portfolio)
 
-My personal portfolio and a central place to showcase the software projects I'm building.
+My personal portfolio and the main place where I showcase the projects I'm building.
 
 **Focus:** Software Engineering · Full Stack · Product development
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 [Inteligencia Artificial](https://github.com/72Jorge28/inteligenciaArtificial)
-
-Repository focused on artificial intelligence experiments and learning.
-
-**Tech:** Python
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📱 [Consulta en Terreno](https://github.com/72Jorge28/Consulta-en-Terreno)
-
-Mobile-oriented project developed as part of my software engineering work.
-
-**Tech:** Kotlin
 
 </td>
 <td width="50%" valign="top">
