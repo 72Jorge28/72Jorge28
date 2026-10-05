@@ -1,12 +1,17 @@
 <h1 align="center">Hi, I'm Jorge Ramos 👋</h1>
 
 <p align="center">
-  <strong>Software Engineer · Full Stack Developer</strong><br/>
-  Building maintainable software, modern web products, and interactive experiences.
+  <strong>Junior Software Engineer · Full Stack Developer</strong><br/>
+  Computer Engineering graduate focused on building useful, maintainable software and growing through real-world projects.
 </p>
 
 <p align="center">
-  <a href="https://github.com/72Jorge28/portfolio"><img src="https://img.shields.io/badge/Portfolio-Repository-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://portfolio-blue-psi-ob1pgbav5x.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0d1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/jorge-ramos-79b709234">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <img src="https://img.shields.io/badge/Open%20to%20opportunities-Spain-0d6efd?style=for-the-badge" alt="Open to opportunities in Spain" />
 </p>
 
@@ -14,14 +19,14 @@
 
 ## 👨‍💻 About me
 
-I'm a **Computer Engineering graduate** focused on building complete software solutions from architecture to deployment.
+I'm a **Computer Engineering graduate** with hands-on experience in modern web development and business software with Odoo.
 
-- 🧩 Full-stack development with **Next.js, React, TypeScript and Python**
-- 🏢 Business software and custom modules with **Odoo**
-- 🧪 Interested in **testing, maintainable architecture, accessibility and code quality**
-- 🌐 Experience building responsive and internationalized web applications
-- 🧠 Currently studying the shared foundations behind **perception, spatial intelligence and software that interacts with the physical world**
-- 🇪🇸 Open to **Junior Software Engineer / Full Stack Developer** opportunities in Spain
+- 💻 I build full-stack web applications with **Next.js, React and TypeScript**
+- 🏢 I currently work with **Python/Odoo**, including custom modules, validations, permissions, testing and maintenance
+- 🧪 I care about **code quality, testing, accessibility and maintainable solutions**
+- 🌐 I have built responsive, internationalized web projects and deployed them with **Vercel**
+- 📚 I keep strengthening my software engineering and full-stack foundations through continuous self-directed learning
+- 🇪🇸 I'm open to **Junior Software Engineer / Full Stack Developer** opportunities in Spain
 
 ## 🛠️ Tech stack
 
@@ -29,10 +34,21 @@ I'm a **Computer Engineering graduate** focused on building complete software so
   <img src="https://skillicons.dev/icons?i=ts,js,python,nextjs,react,tailwind,threejs,postgres,git,github,docker,vscode,linux&perline=13" alt="Technology stack" />
 </p>
 
+**Languages:** TypeScript · JavaScript · Python · SQL · HTML · CSS · C++  
 **Web:** Next.js · React · Tailwind CSS · Three.js · React Three Fiber  
-**Backend & Data:** Python · Odoo · PostgreSQL · Prisma · APIs / Server Actions  
-**Tools:** Git · GitHub · Docker · pnpm · VS Code · Vercel · Cloudflare  
-**Practices:** Testing · i18n · Accessibility · Responsive Design · Code Review · CI/Linting
+**Backend & Data:** Odoo · Odoo ORM · PostgreSQL · Prisma · Server Actions · APIs  
+**Tools:** Git · GitHub · Docker · Doodba · pnpm · VS Code · Linux · Vercel  
+**Practices:** Testing · i18n · Accessibility · Responsive Design · Code Review
+
+## 💼 Experience
+
+### Software Developer / Odoo — Desoft Habana
+**April 2026 – Present**
+
+- Contributing to the migration of a virtual event management solution from **Odoo 14 to Odoo 19 Community**
+- Developing custom modules for **call for papers** and public forms
+- Implementing validations, permissions, security rules and a suite of **32 HTTP tests** for critical business flows
+- Working with **Python, XML/QWeb, Odoo ORM, Git and Docker/Doodba**
 
 ## 🚀 Featured work
 
@@ -40,26 +56,30 @@ I'm a **Computer Engineering graduate** focused on building complete software so
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 [Portfolio](https://github.com/72Jorge28/portfolio)
+### 🌐 [Portfolio](https://portfolio-blue-psi-ob1pgbav5x.vercel.app/)
 
-My personal portfolio and the main place where I showcase the projects I'm building.
+My personal portfolio, where I present the projects I'm building and the areas I'm developing professionally.
 
-**Focus:** Software Engineering · Full Stack · Product development
+**Focus:** Software Engineering · Full Stack · Product Development
 
 </td>
 <td width="50%" valign="top">
 
-### 🧭 What I'm building next
+### 🧭 Current learning direction
 
-I'm building the common technical foundation behind systems that can **perceive, localize, understand and interact with the physical world**.
+I'm building a common foundation for systems that can **perceive, locate, represent and interact with the physical world** before choosing a specific specialization.
 
-That means learning the shared core of **computer vision, 3D geometry, depth, tracking, localization, SLAM, sensors and sensor fusion, real-time systems, spatial reasoning, applied AI and interaction** — so I can later specialize where the strongest fit appears.
+I'm currently strengthening foundations in areas such as **mathematics, 3D geometry, computer vision, sensors, localization, state estimation and spatial representation**.
 
-**Possible directions:** Spatial Computing · Human Augmentation · AR/MR · Embodied AI · Light Robotics
+**Possible future directions:** Computer Vision · Spatial Computing / XR · Drones & Light Robotics · Human Augmentation
 
 </td>
 </tr>
 </table>
+
+## 🌱 Also exploring
+
+Alongside my main path, I continue improving my **full-stack web development fundamentals** and maintain an interest in **cybersecurity** as a complementary area.
 
 ## 📊 GitHub activity
 
